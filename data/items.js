@@ -4,7 +4,7 @@ export const items = [
   { id: 2, name: "Ấm Siêu Tốc", price: 450000, image: "/images/amSieuToc.jpg", category: "Đồ Điện" },
   { id: 3, name: "Bàn Chữ Nhật Lớn(gấp được)", price: 250000, image: "/images/banLon.jpg", category: "Bàn Ghế" },
   { id: 4, name: "Bàn Tròn", price: 350000, image: "/images/banTron.jpg", category: "Bàn Ghế" },
-  { id: 5, name: "Bình Nước", price: 400000, image: "/images/binhNuoc.jpg", category: "Gia dụng" },
+  { id: 5, name: "Bình Nước(giá gốc 20k + 60k", price: 400000, image: "/images/binhNuoc.jpg", category: "Gia dụng" },
   { id: 6, name: "Bột Giặt", price: 800000, image: "/images/botGiat.jpg", category: "0đ" },
   { id: 7, name: "2 Chậu Nhựa(tặng ca + ghế)", price: 150000, image: "/images/chauNhua.jpg", category: "Gia dụng" },
   { id: 8, name: "Chổi", price: 650000, image: "/images/choi.jpg", category: "Gia dụng" },
